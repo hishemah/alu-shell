@@ -7,3 +7,4 @@ Shell scripting projects for the ALU Software Engineering program.
 - [basics](basics) - Shell, basics
 - [permissions](permissions) - Shell, permissions
 - [io_redirections_and_filters](io_redirections_and_filters) - Shell, I/O Redirections and filters
+- [init_files_variables_and_expansions](init_files_variables_and_expansions) - Shell, init files, variables and expansions
